@@ -3,3 +3,5 @@
 ################################################################################
 
 /Number Guessing/bin/Debug/netcoreapp3.1
+/Number Guessing/obj
+/.vs
